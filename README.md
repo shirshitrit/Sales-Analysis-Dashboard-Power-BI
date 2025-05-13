@@ -60,7 +60,3 @@ this project was part of an assignment simulating a request from a client or acc
 The task helped me apply DAX formulas, design with user interaction in mind, and share the dashboard as a Power BI App workspace.
 
 ---
-
-## 📬 Contact
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out more of my work on [GitHub](https://github.com/shirshitrit)
