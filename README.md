@@ -28,7 +28,7 @@ The goal was to provide a clear, interactive visualization of sales performance 
 ---
 
 ## 📁 Files Included
-
+-`Sales_dashboard.pbix` 
 - `sales.xlsx` – Original dataset used for analysis  
 - `dashboard_overview.png` – Full dashboard preview  
 
